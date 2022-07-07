@@ -1,1 +1,1 @@
-# VR-2
+# Bike-Horse Classification
